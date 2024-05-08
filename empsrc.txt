@@ -1,0 +1,5 @@
+eno,ename,salary,age,lctn
+111,siva,3000,33,chennai
+222,anand,4000,44,bangalore
+333,sathya,5000,22,hydrabad
+444,naveen,2000,26,mumbai
